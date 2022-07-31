@@ -1,9 +1,9 @@
 ## 👋 Hi! I'm Vivian
 
-I'm a developing Software Engineer interested in Computer Networking and Systems Programming, currently studying Computer Engineering at UC San Diego. Thanks for checking out my profile!
+I'm a Software Engineer interested in Computer Networking and Systems Programming. Thanks for checking out my profile!
 
 ## :link: Links
-[__Linkedin__](https://www.linkedin.com/in/vivian-chiong/) | [__Email__](mailto:vchiong@ucsd.edu)
+[__Linkedin__](https://www.linkedin.com/in/vivian-chiong/) | [__Email__](mailto:vivianjchiong@gmail.com)
 
 <!--
 **vivianchiong/vivianchiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
